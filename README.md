@@ -1,16 +1,17 @@
-### Hi there 👋
+## :large_blue_diamond: DILAN GUTIERREZ (ING EN PROCESO) 
 
-<!--
-**DilanChelo/DilanChelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mi:
+:shrimp: Escuinapa Sin.
+:school: Estudiante en ITT.
+:snowflake: Team Frio.
+:city_sunrise: Amante de la fotografia.
 
-Here are some ideas to get you started:
+### Lenguajes
+--C#
+--C++
+--JAVA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<img src = https://cdn.pixabay.com/photo/2022/07/07/13/19/cat-7307184_1280.png> 
